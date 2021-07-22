@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeVenture</string>
+    <string name="count_down">Count Down</string>
+    <string name="please_enter_upcomming_time_in_seconds">please enter the upcoming time in second</string>
+    <string name="Ok">ok</string>
+    <string name="please_input_seconds">please input seconds</string>
+    <string name="please_input_upcoming_time">it must be greater than the current time</string>
+    <string name="remaining">Remaining</string>
+</resources>
